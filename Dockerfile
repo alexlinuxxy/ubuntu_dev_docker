@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:16.04
 MAINTAINER Alex Huang "nikshuang@163.com"
 ENV REFRESHED_AT 2016-6-19
 RUN apt-get update
